@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+![alt text](https://drive.google.com/file/d/1raUzZDSSsRNzhSjmvVbMFHAGzaq6L4xs/view?usp=sharing)
+# Sonal Jain
 
-You can use the [editor on GitHub](https://github.com/sonaljain2212/sonaljain2212.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Master's in Data Science
+### Northeastern University
 
 ```markdown
 Syntax highlighted code block
