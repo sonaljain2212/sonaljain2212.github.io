@@ -1,4 +1,4 @@
-![alt text](https://drive.google.com/file/d/1raUzZDSSsRNzhSjmvVbMFHAGzaq6L4xs/view?usp=sharing)
+![alt text](https://github.com/sonaljain2212/sonaljain2212.github.io/blob/main/WhatsApp%20Image%202020-09-02%20at%201.39.58%20PM%20(1).jpeg)
 # Sonal Jain
 
 ## Master's in Data Science
